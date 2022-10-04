@@ -6,7 +6,7 @@
 
 # React.js o'zbek tilida to'liq kurs.
 
- ## 1-dars. 
+## 1-dars. 
 
 ### Kursga kirish
 
