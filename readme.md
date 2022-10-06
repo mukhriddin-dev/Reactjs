@@ -10,6 +10,8 @@
 
 ### Kursga kirish
 
+Reja:
+
 - Node.js nima?
 
   JavaScript kodlarimizni browserdan tashqarida ishlatishga imkon beruvchi environment.
@@ -88,3 +90,18 @@ html taglar orasida JS o'zgaruvchilardan foydalanish **interpolation**
 <hr>
 
 ## 2-dars.
+
+
+Reja:
+
+1. File Architechture: Assets | Images | Fonts | Lib
+2. Node Sass npm i node-sass
+3. styling
+4. Props
+5. useState
+6. useRef
+7. map , key
+
+Uyga vazifa:
+
+1. amaliyot
