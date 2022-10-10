@@ -98,10 +98,18 @@ Reja:
 2. Node Sass npm i node-sass
 3. styling
 4. Props
-5. useState
-6. useRef
+5. useState , => [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link")
+6. useRef ,  => [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
 7. map , key
 
 Uyga vazifa:
 
 1. amaliyot
+
+## 3-dars.
+
+1. useState , => [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link")
+2. useRef , => [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
+3. Forms
+4. useEffect ,=> [Batafsil o'qish](https://medium.com/mukhriddin/react-useeffect-hook-96798a0dc756 "Heading link")
+5. Conditional rendering
