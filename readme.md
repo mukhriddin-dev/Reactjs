@@ -106,10 +106,20 @@ Uyga vazifa:
 
 1. amaliyot
 
-## 3-dars. 💎💎💎
+## 3-dars. 
 
 1. useState , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link")
 2. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
 3. Forms
 4. useEffect , 👉 [Batafsil o'qish](https://medium.com/mukhriddin/react-useeffect-hook-96798a0dc756 "Heading link")
 5. Conditional rendering
+
+
+
+## 4-dars. 
+
+1. useState , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link")
+2. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
+4. useEffect , 👉 [Batafsil o'qish](https://medium.com/mukhriddin/react-useeffect-hook-96798a0dc756 "Heading link")
+5. REST API ,
+6. React ROUTER DOM
