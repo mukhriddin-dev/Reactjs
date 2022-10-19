@@ -123,3 +123,25 @@ Uyga vazifa:
 4. useEffect , 👉 [Batafsil o'qish](https://medium.com/mukhriddin/react-useeffect-hook-96798a0dc756 "Heading link")
 5. REST API ,
 6. React ROUTER DOM
+
+
+## 5-dars. 
+
+1. useContext , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usecontext-hook-4e1435fa76f1 "Heading link")
+2. React ROUTER DOM , 👉 [Batafsil o'qish](https://t.me/mukhriddinweb/189 "Heading link")
+3. Dark / Light mode
+
+## 6-dars. 
+
+1. useParams , useNavigate , useLocation , OutLet . . . 
+2. Multi langugae app
+3. C R U D 
+
+## 7-dars. 
+
+1. useParams , useNavigate , useLocation , OutLet . . . 
+2. Dynamic paging
+3. Nested Routes
+   
+   
+   
