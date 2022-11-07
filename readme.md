@@ -108,40 +108,87 @@ Uyga vazifa:
 
 ## 3-dars. 
 
-1. useState , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link")
-2. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
-3. Forms
-4. useEffect , 👉 [Batafsil o'qish](https://medium.com/mukhriddin/react-useeffect-hook-96798a0dc756 "Heading link")
-5. Conditional rendering
+1. useState , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link").
+2. Vite v3 vs Reactjs (FAST SPEED RENDERING)
+3. Todo App ni boshlash.
+4. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
+5. Forms
+6. Conditional rendering
 
 
 
 ## 4-dars. 
 
-1. useState , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link")
-2. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
-4. useEffect , 👉 [Batafsil o'qish](https://medium.com/mukhriddin/react-useeffect-hook-96798a0dc756 "Heading link")
-5. REST API ,
-6. React ROUTER DOM
+1. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
+2. componentLifecycles
+3. useEffect , 👉 [Batafsil o'qish](https://medium.com/mukhriddin/react-useeffect-hook-96798a0dc756 "Heading link")
+4. REST API ,
+5. React ROUTER DOM ga kirish
 
 
 ## 5-dars. 
-
-1. useContext , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usecontext-hook-4e1435fa76f1 "Heading link")
-2. React ROUTER DOM , 👉 [Batafsil o'qish](https://t.me/mukhriddinweb/189 "Heading link")
-3. Dark / Light mode
+1. Props drilling 
+2. Error handling in React best practices
+3. useContext , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usecontext-hook-4e1435fa76f1 "Heading link")
+4. Multilanguage app
+5. Dark / Light mode
 
 ## 6-dars. 
-
-1. useParams , useNavigate , useLocation , OutLet . . . 
-2. Multi langugae app
-3. C R U D 
+1. Nested Routes
+2. useParams , useNavigate , useLocation , OutLet . . . 
+3. JSON SERVER 
+4. C R U D (application) (fetch vs axios)
 
 ## 7-dars. 
 
-1. useParams , useNavigate , useLocation , OutLet . . . 
+1. Custom API methods Architechture
 2. Dynamic paging
-3. Nested Routes
+4. Private Routes
+6. Custom Hook
+   
+## 8-dars. 
+   1. Authentication
+   2. Public routes
+   3. Protected routes
+   
+## 9-dars. 
+   1. React.Memo() (useMemo)
+   2. useCallback
+   3. useReducer
+   4. Hook useLayoutEffect
+   5. Hook useImperativeHandle
+
+## 10-dars. 
+   0. repetition Advanced Hooks 
+   1. Prop types
+   2. Styled Component
+   3. MATERIAL UI , REACT SUITE (UI KITS)
+   
+
+## 11-dars.
+  
+   1. REDUX BASIC
+   2. Store vs createStore
+   3. Payload bilan ishlash
+   4. useSelector 
+   5. reducer & action yozish
+   6. redux Developer tools (exstension)
+   
+   ## 12-dars.
+
+   0. Redux Thunk
+   1. Redux Toolkit. ConfigureStore
+   2. Redux Toolkit. CreateAction
+   3. Redux Toolkit. CreateReducer
+   4. Redux Toolkit. CreateSlice
+   5. reducer & action yozish
+   6. redux Developer tools (exstension)
+   7. Redux Toolkit. CreateAsyncThunk 
+   8. Redux Tooklit. CreateEntityAdapter
+
+
+### Qo'shimcha Feedbacklar reduxni takrorlsh bo'yicha.
+
    
    
    
