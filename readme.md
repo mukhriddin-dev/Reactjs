@@ -120,10 +120,10 @@ Uyga vazifa:
 ## 4-dars. 
 
 1. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
-2. componentLifecycles
+2. componentLifecycles  👉 [Batafsil o'qish](https://medium.com/@mukhriddin/lifecycle-metodlar-hooklar-yordamida-yoki-nega-useeffect-metodidan-foydalanamiz-86af44c2c237 "Heading link")
 3. useEffect , 👉 [Batafsil o'qish](https://medium.com/mukhriddin/react-useeffect-hook-96798a0dc756 "Heading link")
 4. REST API ,
-5. React ROUTER DOM ga kirish
+5. React ROUTER DOM ga kirish 👉 [Batafsil o'qish](https://t.me/mukhriddinweb/189 "Heading link")
 
 
 ## 5-dars. 
@@ -152,8 +152,8 @@ Uyga vazifa:
    3. Protected routes
    
 ## 9-dars. 
-   1. React.Memo() (useMemo)
-   2. useCallback
+   1. React.Memo() (useMemo)  👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-js-haqida-1-qisim-c3766a43799f "Heading link")
+   2. useCallback   👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-js-haqida-1-qisim-c3766a43799f "Heading link")
    3. useReducer
    4. Hook useLayoutEffect
    5. Hook useImperativeHandle
@@ -163,7 +163,7 @@ Uyga vazifa:
    1. Prop types
    2. Styled Component
    3. MATERIAL UI , REACT SUITE (UI KITS)
-   
+   4. React js BEST practices  👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-best-practices-2022-mukhriddin-khodiev-cd80ff3f8ea7 "Heading link")
 
 ## 11-dars.
   
@@ -173,21 +173,23 @@ Uyga vazifa:
    4. useSelector 
    5. reducer & action yozish
    6. redux Developer tools (exstension)
+   7.  Redux Toolkit (o'qib bajaramiz), 👉 [Redux Toolkit 10 qadamda o'rganamiz ](https://medium.com/@mukhriddin/redux-toolkitni-10-qadamda-organing-d6c88fd159f1 "Heading link")
    
    ## 12-dars.
 
-   0. Redux Thunk
-   1. Redux Toolkit. ConfigureStore
-   2. Redux Toolkit. CreateAction
-   3. Redux Toolkit. CreateReducer
-   4. Redux Toolkit. CreateSlice
-   5. reducer & action yozish
-   6. redux Developer tools (exstension)
-   7. Redux Toolkit. CreateAsyncThunk 
-   8. Redux Tooklit. CreateEntityAdapter
+   1. Redux Thunk
+   2. Redux Toolkit. ConfigureStore
+   3. Redux Toolkit. CreateAction
+   4. Redux Toolkit. CreateReducer
+   5. Redux Toolkit. CreateSlice
+   6. reducer & action yozish
+   7. redux Developer tools (exstension)
+   8. Redux Toolkit. CreateAsyncThunk 
+   9. Redux Tooklit. CreateEntityAdapter
 
 
-### Qo'shimcha Feedbacklar reduxni takrorlsh bo'yicha.
+### Qo'shimcha Feedbacklar reduxni takrorlash bo'yicha va hayirlashuv :)
+
 
    
    
