@@ -97,10 +97,9 @@ Reja:
 1. File Architechture: Assets | Images | Fonts | Lib
 2. Node Sass npm i node-sass
 3. styling
-4. Props
+4. Props , Children
 5. useState , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link")
-6. useRef ,  👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
-7. map , key
+6. map , key
 
 Uyga vazifa:
 
@@ -108,7 +107,7 @@ Uyga vazifa:
 
 ## 3-dars. 
 
-1. useState , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link").
+1. useState , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-usestate-hook-ef9e42916b7 "Heading link"). takrorlash
 2. Vite v3 vs Reactjs (FAST SPEED RENDERING)
 3. Todo App ni boshlash.
 4. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
@@ -119,11 +118,12 @@ Uyga vazifa:
 
 ## 4-dars. 
 
-1. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link")
+1. useRef , 👉 [Batafsil o'qish](https://medium.com/@mukhriddin/react-useref-hook-haqida-10064180ba61 "Heading link") (takrorlsh)
 2. componentLifecycles  👉 [Batafsil o'qish](https://medium.com/@mukhriddin/lifecycle-metodlar-hooklar-yordamida-yoki-nega-useeffect-metodidan-foydalanamiz-86af44c2c237 "Heading link")
 3. useEffect , 👉 [Batafsil o'qish](https://medium.com/mukhriddin/react-useeffect-hook-96798a0dc756 "Heading link")
-4. REST API ,
-5. React ROUTER DOM ga kirish 👉 [Batafsil o'qish](https://t.me/mukhriddinweb/189 "Heading link")
+4. fetch vs axios
+5. REST API ,
+6. React ROUTER DOM ga kirish 👉 [Batafsil o'qish](https://t.me/mukhriddinweb/189 "Heading link")
 
 
 ## 5-dars. 
@@ -143,8 +143,8 @@ Uyga vazifa:
 
 1. Custom API methods Architechture
 2. Dynamic paging
-4. Private Routes
-6. Custom Hook
+3. Custom Hook
+4. React memo
    
 ## 8-dars. 
    1. Authentication
@@ -173,7 +173,7 @@ Uyga vazifa:
    4. useSelector 
    5. reducer & action yozish
    6. redux Developer tools (exstension)
-   7.  Redux Toolkit (o'qib bajaramiz), 👉 [Redux Toolkit 10 qadamda o'rganamiz ](https://medium.com/@mukhriddin/redux-toolkitni-10-qadamda-organing-d6c88fd159f1 "Heading link")
+   7. Redux Toolkit (o'qib bajaramiz), 👉 [Redux Toolkit 10 qadamda o'rganamiz ](https://medium.com/@mukhriddin/redux-toolkitni-10-qadamda-organing-d6c88fd159f1 "Heading link")
    
    ## 12-dars.
 
@@ -187,8 +187,21 @@ Uyga vazifa:
    8. Redux Toolkit. CreateAsyncThunk 
    9. Redux Tooklit. CreateEntityAdapter
 
+  ## 13 -dars 
+  
+  **o'rganish tavfsiya etiladi quyidagilar mavu sifatida.**
 
-### Qo'shimcha Feedbacklar reduxni takrorlash bo'yicha va hayirlashuv :)
+  1. JWT token
+  2. Next.js 
+  3. Redux Saga
+  4. Redux Toolkit
+  5. Zustand vs Mobx
+
+
+
+
+
+### Qo'shimcha Feedbacklar reduxni takrorlash bo'yicha.
 
 
    
