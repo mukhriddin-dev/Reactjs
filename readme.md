@@ -189,7 +189,7 @@ Uyga vazifa:
 
   ## 13 -dars 
   
-  **o'rganish tavfsiya etiladi quyidagilar mavu sifatida.**
+  **o'rganish tavfsiya etiladi quyidagilar mavzu sifatida.**
 
   1. JWT token
   2. Next.js 
