@@ -145,6 +145,11 @@ Uyga vazifa:
 2. Dynamic paging
 3. Custom Hook
 4. React memo
+5. useId
+
+<img src="https://telegra.ph/file/a64397289b9db7c5b1632.jpg" width="800">
+<hr>
+   
    
 ## 8-dars. 
    1. Authentication
